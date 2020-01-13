@@ -23,5 +23,5 @@ The aim of the project is to raise awareness on the theme of ecology. We  host r
 
 ## Structure
 
-![](./ERS.png)
+![](./imgs/ERS.png)
 
