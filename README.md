@@ -1,4 +1,4 @@
-# ERS
+![](Logo/logo_sfondo_bianco.png)
 
 > Eco Race Simulator
 
